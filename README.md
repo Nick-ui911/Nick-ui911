@@ -22,10 +22,16 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nick-ui911&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h2 align="center">✍️ Dev Philosophy</h2>
 
-### 🔝 Top Contributed Repo
+<p align="center">
+  <i>
+    “I don’t just write code that works —  
+    I write code that scales, performs, and lasts.”
+  </i>
+</p>
+
+
 <h2 align="center">🔝 Top Contributed Repositories</h2>
 
 <p align="center">
