@@ -1,5 +1,12 @@
 # 💫 About Me:
-Full-Stack Developer | MERN & Next.js | AWS | GenAI Enthusiast<br><br>I build scalable web applications using React, Next.js, Node.js, and cloud-native tools.<br>Currently focused on real-world projects, system design, and AI-powered applications.<br>
+<h1 align="center">👋 Hi, I'm Nikhil Singh</h1>
+<h2 align="center">Full-Stack Developer | MERN • Next.js • AWS • GenAI</h2>
+
+<p align="center">
+🚀 I build <b>scalable, production-ready web applications</b> using modern JavaScript stacks.<br/>
+💡 Strong focus on <b>real-world projects</b>, <b>system design</b>, and <b>AI-powered solutions</b>.<br/>
+☁️ Experienced with cloud deployment, CI/CD, and performance optimization.
+</p>
 
 
 ## 🌐 Socials:
@@ -19,7 +26,12 @@ Full-Stack Developer | MERN & Next.js | AWS | GenAI Enthusiast<br><br>I build sc
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nick-ui911&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2 align="center">🔝 Top Contributed Repositories</h2>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Nick-ui911&limit=6&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nick-ui911&icon=0&color=0)](https://visitcount.itsvg.in)
